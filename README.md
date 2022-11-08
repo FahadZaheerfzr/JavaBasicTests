@@ -17,6 +17,9 @@ Building and deploying your application to a server or a device for manual testi
 
 Testing your code means verifying that it works as intended. However, getting from there to writing code tests might be challenging. To make matters worse, many tutorials go into great detail about a particular tool without describing the basic testing process.
 
-To avoid any confusion, the first example will demonstrate how to test some code without using any libraries at all; not even JUnit. With that being said, I do encourage you to find a setup that works for you.
+To avoid any confusion, the first example will demonstrate how to test some code without using any libraries at all; not even JUnit.
 
-***NOTE*****:** *Some of you may have heard of test driven development (TDD). I will not be applying TDD in these examples, but I will address it and the topic of 100% code coverage, toward the end of this article.*
+#### Reference
+https://www.twilio.com/blog/java-junit-effective-unit-tests
+
+
